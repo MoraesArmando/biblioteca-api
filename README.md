@@ -4,7 +4,7 @@
 
 ## Índice
 * [Desafio](#desafio)
-* [Techs](#techs)
+
 
 # Desafio
 Seu desafio é criar o backend para um sistema de gerenciamento de uma biblioteca!
