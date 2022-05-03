@@ -16,3 +16,5 @@ Seu desafio é criar o backend para um sistema de gerenciamento de uma bibliotec
 <b>[PUT] </b> /obras/:id: : A rota deverá atualizar as informações de titulo, editora, foto e autores da obra com o id presente nos parâmetros da rota<br><br>
 <b>[DELETE] </b> /obras/:id: : A rota deverá deletar a obra com o id presente nos parâmetros da rota<br>
 
+## Status
+Em desenvolvimento
